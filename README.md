@@ -3,13 +3,12 @@
 part 2: 
  
 Hardware:
-
--Arduino Board
--Breadboard
--LED
--photoresistor
--2 Resistor
--Hook-up wires
+- Arduino Board
+- Breadboard
+- LED
+- photoresistor
+- 2 Resistor
+- Hook-up wires
 
 Circuit:
 
