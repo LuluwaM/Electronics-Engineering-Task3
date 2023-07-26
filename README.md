@@ -3,6 +3,7 @@
 part 2: 
  
 Hardware:
+
 -Arduino Board
 -Breadboard
 -LED
