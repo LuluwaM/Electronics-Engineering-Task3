@@ -1,4 +1,15 @@
 # Electronics-Engineering-Task3
+part 1:
+
+Hardware:
+- Arduino Board
+- Breadboard
+- Ultrasonic distance sensor
+- LED
+- Resistor
+- Hook-up wires
+  
+Circuit:
 
 part 2: 
  
