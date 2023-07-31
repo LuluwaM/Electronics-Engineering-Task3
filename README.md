@@ -1,5 +1,5 @@
 # Electronics-Engineering-Task3
-part 1: Ultrasonic sensor
+part 1: Measure distance using an ultrasonic sensor, if the distance is less than 100 the LED turns on.
 
 Hardware:
 - Arduino Board
