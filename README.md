@@ -1,5 +1,5 @@
 # Electronics-Engineering-Task3
-part 1:
+part 1: Ultrasonic sensor
 
 Hardware:
 - Arduino Board
