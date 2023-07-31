@@ -14,8 +14,7 @@ Circuit:
 <img width="799" alt="task3_p1" src="https://github.com/LuluwaM/Electronics-Engineering-Task3/assets/113927014/34e8e399-f0f3-4542-8de9-c6c47678e3e5">
 
 
-part 2: 
- 
+part 2: Turn on the LED using the light sensor.
 Hardware:
 
 - Arduino Board
